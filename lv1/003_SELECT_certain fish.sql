@@ -1,4 +1,4 @@
--- 문제: 특정 물고기를 잡은 총 수 구하기
+-- 문제: 특정 물고기를 잡은 총 수 구하기 lv.2
 -- 링크: https://school.programmers.co.kr/learn/courses/30/lessons/298518
 -- 핵심 개념: COUNT(*), WHERE IN, CASE WHEN 세가지 방법
 -- 메모: 처음 CASE WHEN으로 접근했으나, WHERE IN으로 접근하는 것이 더 간단하고 효율적임
